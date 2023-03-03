@@ -1,0 +1,44 @@
+
+.trens
+{
+    display: flex;
+    position: relative;
+    width: 35%;
+    margin: auto;
+    margin-top: 20%;
+}
+#carre
+{
+    height: 200px;
+    width: 200px;
+    display: flex;
+}
+.carre1_1,.carre1_2
+{
+    background-color: red;
+    height: 200px;
+    width: 200px;
+    width: 200px;
+    animation-name: example;
+    animation-duration: 4s;
+}
+#carre2
+{
+    display: flex;
+    position: absolute;
+    height: 200px;
+    width: 200px;
+    transform: rotate(45deg);
+}
+.carre2_1,.carre2_2
+{
+    background-color: red;
+    height: 200px;
+    width: 200px;
+    animation-name: example;
+    animation-duration: 4s;
+}
+.bg
+{
+    background-color: black;
+}

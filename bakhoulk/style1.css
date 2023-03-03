@@ -1,0 +1,161 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.tp
+{
+
+}
+.entete1
+{
+    background-color:#1E1F29;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    
+
+
+}
+.trois
+{
+    display: flex;
+    justify-content: space-evenly;
+    width: 40%;
+}
+.deux
+{
+    display: flex;
+    justify-content: space-evenly;
+    width: 15%;
+}
+.entete2
+{
+    background-color: #0a0a0b;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding-bottom: 4px;
+    block-size: 7rem;
+    
+}
+.digueu
+{
+    display: flex;
+    border-radius:  solid black;
+    width: 35%;
+    height: 3rem;
+
+    
+}
+.br
+{
+    font-size: 2.5em;
+    font-weight: bold;
+    margin-left: 15rem;
+
+}
+.img_1
+{
+    background-size: 15%;
+    width: 100%;
+    height: 100%;
+    background-repeat: no-repeat;
+}
+.shr
+{
+    background-color: red;
+    padding-top: 9px;
+    padding-right: 9px;
+    font-weight: bold;
+}
+.all
+{
+    background-color: white;
+    color: black;
+    padding-top: 9px;
+    padding-bottom: 9px;
+    padding-right: 4.6rem;
+
+}
+.barre
+{
+    display: flex;
+}
+.point
+{
+    font-size: 2em;
+    color: red;
+}
+.your
+{
+    display: flex;
+    justify-content: space-between;
+    width: 12%;
+}
+.phone
+{
+    color: red;
+}
+.mail
+{
+    color: red;
+}
+.map
+{
+    color: red;
+}
+.dol
+{
+    color: red;
+}
+.user
+{
+    color: red;
+}
+.trait
+{
+    background-color: red;
+    width: 100%;
+    height: 3px;
+}
+.menu
+{
+    display: flex;
+    width: 45%;
+    justify-content: space-between;
+    margin: auto;
+    block-size: 2rem;
+    margin-top: 1rem;
+
+}
+.home
+{
+    color: red;
+}
+.trait2
+{
+
+    background-color: black;
+    width: 100%;
+    height: 1px;
+}
+.img
+{
+    display: flex;
+}
+.img_1
+{
+    width: 45%;
+}
+.img_2
+{
+
+}
+.img_3
+{
+
+}
+
